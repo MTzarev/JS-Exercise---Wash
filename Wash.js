@@ -14,7 +14,6 @@ function carWash (comm) {
       } else {
         totalProcentage = mud(totalProcentage);
       }
-        
     } 
     
     console.log(`The car is ${totalProcentage.toFixed(2)}% clean.`);
