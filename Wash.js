@@ -18,4 +18,4 @@ function carWash (comm) {
     console.log(`The car is ${totalProcentage.toFixed(2)}% clean.`);
   }
 carWash(['soap', 'soap', 'vacuum cleaner', 'mud', 'soap', 'water']);
-//carWash(["soap", "water", "mud", "mud", "water", "mud", "vacuum cleaner"]);
+
